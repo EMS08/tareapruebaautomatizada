@@ -1,0 +1,16 @@
+Historia de Usuario: Prueba Automatizada de la Barra de Búsqueda en Yahoo
+
+Título: Realizar Prueba Automatizada de la Barra de Búsqueda en Yahoo.com
+
+Descripción:
+Como desarrollador de la plataforma en línea, es crucial asegurarse de que la barra de búsqueda en Yahoo funcione de manera eficiente y precisa. Esta prueba automatizada tiene como objetivo verificar la funcionalidad y rendimiento de la barra de búsqueda.
+
+Criterios de Aceptación:
+
+1) Ingresar Términos de Búsqueda:
+
+La prueba debe simular la entrada de términos de búsqueda en la barra correspondiente para asegurar que el sistema acepte correctamente las consultas.
+
+2) Resultados de Búsqueda Precisos:
+
+Confirmar que los resultados de búsqueda devueltos sean precisos y relevantes para los términos ingresados.
